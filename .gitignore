@@ -1,0 +1,26 @@
+node_modules/
+.nyc_output/
+coverage/
+.vscode/
+npm-debug.log
+
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+db.ini
+deploy_key_rsa
+
+#credentials
+cert
+*.key
+*.cert
+*.config
+*.pem
+*.crt
